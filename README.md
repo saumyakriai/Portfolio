@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Generative AI , LLM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saumyaflyin](https://github.com/saumyaflyin)
+- 👨‍💻 All of my projects are available at [https://github.com/saumyakriai](https://github.com/saumyakriai)
 
 - 💬 Ask me about **Python, Machine Learning, LLM , AI**
 
